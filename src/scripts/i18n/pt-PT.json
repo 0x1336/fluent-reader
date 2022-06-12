@@ -224,7 +224,7 @@
         "confirmImport": "Do you really want to import data from the backup file? All current data will be wiped.",
         "data": "Dados da aplicação",
         "backup": "Backup",
-        "restore": "Restorar",
+        "restore": "Restaurar",
         "frData": "Dados do Fluent Reader",
         "language": "Idioma",
         "theme": "Tema",
